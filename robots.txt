@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aedaeghooh.saranskmama.ru/sitemap.xml
